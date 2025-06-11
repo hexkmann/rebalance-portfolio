@@ -27,4 +27,4 @@ rebalance-portfolio/
 2. Ejecuta el ejemplo para ver cómo crear una cartera y rebalancearla:
 
 ```bash
-python rebalance_example.py
+python main.py
